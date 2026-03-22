@@ -6,7 +6,7 @@ Built by [CivicWork, Inc.](https://civicwork.ai) — open-source AI infrastructu
 
 ## Why This Exists
 
-Municipal ordinances are public law — they belong to the people. But accessing them programmatically is gated behind vendor platforms that increasingly restrict API access. A policy analyst who wants to search for "sanctuary city" ordinances across 3,300+ municipalities can't do it without an enterprise vendor contract.
+Municipal ordinances are public law — they belong to the people. But accessing them programmatically is gated behind vendor platforms that increasingly restrict API access. A policy analyst who wants to search for short-term rental regulations across 3,300+ municipalities can't do it without an enterprise vendor contract.
 
 This pipeline makes public law actually accessible:
 - **Crawl** municipal codes from public sources
