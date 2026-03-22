@@ -25,7 +25,7 @@ python3 crawlers/municode_crawler.py --state IL --municipality Elgin --content
 
 # Search across all crawled codes
 python3 crawlers/municode_crawler.py --search "liquor license"
-python3 crawlers/municode_crawler.py --search "sanctuary" --state IL
+python3 crawlers/municode_crawler.py --search "short-term rental" --state IL
 
 # Export a chapter for LLM consumption
 python3 crawlers/municode_crawler.py --export "Alcoholic Liquor" --format markdown
