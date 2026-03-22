@@ -80,7 +80,7 @@ Municipal ordinances are public law and cannot be copyrighted (*Georgia v. Publi
 
 - [CivicWork WebMCP](https://github.com/CivicWork/municipal-webmcp) — Browser AI agent tools for Legistar and Municode
 - [CivicWork Plugin](https://github.com/CivicWork/municipal-governance) — Claude plugin for municipal governance
-- [MunicipalMCP](https://github.com/CivicWork/municipal-mcp) — Python MCP server for Municode API
+- [MunicipalMCP](https://github.com/Skatterbrainz/MunicipalMCP) — Python MCP server for Municode API (by Skatterbrainz; CivicWork maintains a patched fork)
 
 ## License
 
