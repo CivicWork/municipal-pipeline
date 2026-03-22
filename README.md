@@ -55,22 +55,13 @@ The schema supports the full intelligence pipeline, not just Municode:
 | `municipalities` | Universal join point — population, coordinates, vendor IDs, signals | Active |
 | `municode_sections` | Code of ordinances document tree with content | Active |
 | `municode_fts` | Full-text search index across all crawled codes | Active |
-| `legistar_meetings` | Meeting agendas and minutes | Schema ready |
-| `legistar_agenda_items` | Individual agenda items with legislation links | Schema ready |
-| `events` | Unified event stream across all data sources | Schema ready |
-| `intelligence` | LLM-enriched analysis of events | Schema ready |
 | `crawl_jobs` | Crawl progress tracking | Active |
+
+Additional tables support future data sources as they come online.
 
 ## Data Sources
 
-### Currently Implemented
 - **Municode** — 3,300+ municipal codes of ordinances via public API (browse, read, list)
-
-### Planned
-- **Legistar** — Meeting agendas, minutes, legislation via WebMCP tools
-- **Census Bureau** — Population, geography, fiscal data
-- **State comptroller databases** — Per-capita spending, technology budgets
-- **Municipal websites** — AI policies, innovation offices, job postings, RFPs
 
 ## Legal
 
